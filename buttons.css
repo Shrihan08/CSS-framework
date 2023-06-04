@@ -1,0 +1,257 @@
+/* Buttons */
+
+.btn{
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+
+.btn-tomato{
+    background-color: tomato;
+    border: none;
+    color: snow;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-tomato:hover{
+    background-color: #ff8047;
+}
+.btn-tomato:focus{
+    outline-color:#ff2307; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-sky{
+    background-color: #00bfff;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-sky:hover{
+    background-color: #00bfca;
+}
+.btn-sky:focus{
+    outline-color: #0090ff; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-space{
+    background-color: #000080;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-space:hover{
+    background-color: #003080;
+}
+.btn-space:focus{
+    outline-color: #005080; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-royal{
+    background-color: #3c61cd;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-royal:hover{
+    background-color: #3c61ff;
+}
+.btn-royal:focus{
+    outline-color:  #3c91cd; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-green{
+    background-color: green;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-green:hover{
+    background-color: #008060;
+}
+.btn-green:focus{
+    outline-color: #00a060; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-darkgreen{
+    background-color: #006400;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-darkgreen:hover{
+    background-color: #007000;
+}
+.btn-darkgreen:focus{
+    outline-color:  #009000; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-teal{
+    background-color: teal;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-teal:hover{
+    background-color: #008060;
+}
+.btn-teal:focus{
+    outline-color:  #00a080; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-olive{
+    background-color: #737301;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-olive:hover{
+    background-color: #737360;
+}
+.btn-olive:focus{
+    outline-color:  #739001; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-honey{
+    background-color: #cb9e54;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-honey:hover{
+    background-color: #cb8e04;
+}
+.btn-honey:focus{
+    outline-color:  #cb7e54; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-orange{
+    background-color: orange;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-orange:hover{
+    background-color: #ffa570;
+}
+.btn-orange:focus{
+    outline-color:  #ff8500; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-black{
+    background-color: black;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-black:hover{
+    background-color: #000050;
+}
+.btn-white{
+    background-color: white;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.btn-white:hover{
+    background-color: #ffffee;
+}
+.btn-dimgray{
+    background-color: dimgray;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-dimgray:hover{
+    background-color: #696949;
+}
+.btn-dimgray:focus{
+    outline-color:  #698999; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-darkgray{
+    background-color: darkgray;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.btn-darkgray:hover{
+    background-color: #a9a9ca;
+}
+.btn-darkgray:focus{
+    outline-color:  #79a9ca; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-cyan{
+    background-color: cyan;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.btn-cyan:hover{
+    background-color: #70ffff;
+}
+.btn-cyan:focus{
+    outline-color:  #00ccff; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-brown{
+    background-color: brown;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.btn-brown:hover{
+    background-color: #c52a2a;
+}
+.btn-brown:focus{
+    outline-color:  #a55a2a; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-yellow{
+    background-color: yellow;
+    border: none;
+    color: black;
+    cursor: pointer;
+}
+.btn-yellow:hover{
+    background-color: #ffff90;
+}
+.btn-yellow:focus{
+    outline-color:  #ffdf00; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-pink{
+    background-color: pink;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.btn-pink:hover{
+    background-color: #ffc0ff;
+}
+.btn-pink:focus{
+    outline-color:  #ffc080; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-purple{
+    background-color: purple;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-purple:hover{
+    background-color: #805080;
+}
+.btn-purple:focus{
+    outline-color:  #800040; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-indigo{
+    background-color: indigo;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-indigo:hover{
+    background-color: #4b3082;
+}
+.btn-indigo:focus{
+    outline-color:  #200082; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+.btn-red{
+    background-color: red;
+    border: none;
+    color: snow;
+    cursor: pointer;
+}
+.btn-red:hover{
+    background-color: #ff5000;
+}
+.btn-red:focus{
+    outline-color:  tomato; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
