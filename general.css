@@ -26,6 +26,7 @@
 .rounded-large{border-radius: 50px !important;}
 .rounded-xlarge{border-radius: 100px !important;}
 .outline-none{outline: none;}
+.txt-centre{text-align: center;}
 
 
 /* Text colors */
@@ -148,3 +149,4 @@
 .hover-italic:hover{font-style: italic;}
 .hover-oblique:hover{font-style: oblique;}
 .hover-bold:hover{font-weight: bold;}
+

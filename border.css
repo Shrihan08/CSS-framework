@@ -8,7 +8,7 @@
 .border-green{border-color: green !important; border-style:solid;}
 .border-teal{border-color: #008080 !important; border-style:solid;}
 .border-olive{border-color:#737301 !important; border-style:solid;}
-.border-orange{border-color:#ffa500 !important; border-style:solid;}
+.border-orange{border-color:orange !important; border-style:solid;}
 .border-darkgreen{border-color:#006400 !important; border-style:solid;}
 .border-honey{border-color:#cb9e54 !important; border-style:solid;}
 .border-black{border-color: black !important; border-style:solid;}
@@ -53,7 +53,7 @@
 .border-hover-green:hover{border-color: green !important; border-style:solid;}
 .border-hover-teal:hover{border-color: #008080 !important; border-style:solid;}
 .border-hover-olive:hover{border-color:#737301 !important ; border-style:solid;}
-.border-hover-orange:hover{border-color:#ffa500 !important ; border-style:solid;}
+.border-hover-orange:hover{border-color:orange !important ; border-style:solid;}
 .border-hover-darkgreen:hover{border-color:#006400 !important ; border-style:solid;}
 .border-hover-honey:hover{border-color:#cb9e54 !important ; border-style:solid;}
 .border-hover-black:hover{border-color: black !important; border-style:solid;}
@@ -77,7 +77,7 @@
 .border-active-green:active{border-color: green !important; border-style:solid;}
 .border-active-teal:active{border-color: #008080 !important; border-style:solid;}
 .border-active-olive:active{border-color:#737301 !important ; border-style:solid;}
-.border-active-orange:active{border-color:#ffa500 !important ; border-style:solid;}
+.border-active-orange:active{border-color:orange !important ; border-style:solid;}
 .border-active-darkgreen:active{border-color:#006400 !important ; border-style:solid;}
 .border-active-honey:active{border-color:#cb9e54 !important ; border-style:solid;}
 .border-active-black:active{border-color: black !important; border-style:solid;}
@@ -91,4 +91,6 @@
 .border-active-purple:active{border-color: purple !important; border-style:solid;}
 .border-active-indigo:active{border-color: indigo !important; border-style:solid;}
 .border-active-red:active{ border-color: red !important; border-style:solid;}
+
+
 

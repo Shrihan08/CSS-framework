@@ -1,0 +1,72 @@
+/* box shadows */
+
+.box-shadow{box-shadow: 0 0px 7px black !important; }
+.box-shadow-tomato{box-shadow: 0 0px 10px tomato !important;}
+.box-shadow-sky{box-shadow: 0 0px 10px #00bfff !important;}
+.box-shadow-space{box-shadow: 0 0px 10px #000080 !important;}
+.box-shadow-royal{box-shadow: 0 0px 10px #3c61cd !important;}
+.box-shadow-green{box-shadow: 0 0px 10px green !important;}
+.box-shadow-teal{box-shadow: 0 0px 10px teal !important;}
+.box-shadow-olive{box-shadow: 0 0px 10px #737301 !important;}
+.box-shadow-orange{box-shadow: 0 0px 10px orange !important;}
+.box-shadow-darkgreen{box-shadow: 0 0px 10px darkgreen !important;}
+.box-shadow-honey{box-shadow: 0 0px 10px #cb9e54 !important;}
+.box-shadow-white{box-shadow: 0 0px 10px white !important;}
+.box-shadow-darkgray{box-shadow: 0 0px 10px darkgray !important;}
+.box-shadow-cyan{box-shadow: 0 0px 10px cyan !important;}
+.box-shadow-dimgray{box-shadow: 0 0px 10px dimgray !important;}
+.box-shadow-brown{box-shadow: 0 0px 10px brown !important;}
+.box-shadow-yellow{box-shadow: 0 0px 10px yellow !important;}
+.box-shadow-pink{box-shadow: 0 0px 10px pink !important;}
+.box-shadow-purple{box-shadow: 0 0px 10px purple !important;}
+.box-shadow-indigo{box-shadow: 0 0px 10px indigo !important;}
+.box-shadow-red{box-shadow: 0 0px 10px red !important;}
+
+/* box shadows hover */
+
+.box-shadow-hover:hover{box-shadow: 0 0px 7px black !important; transition: 0.3s; }
+.box-shadow-hover-tomato:hover{box-shadow: 0 0px 10px tomato !important; transition: 0.3s;}
+.box-shadow-hover-sky:hover{box-shadow: 0 0px 10px #00bfff !important; transition: 0.3s;}
+.box-shadow-hover-space:hover{box-shadow: 0 0px 10px #000080 !important; transition: 0.3s;}
+.box-shadow-hover-royal:hover{box-shadow: 0 0px 10px #3c61cd !important; transition: 0.3s;}
+.box-shadow-hover-grass:hover{box-shadow: 0 0px 10px green !important; transition: 0.3s;}
+.box-shadow-hover-teal:hover{box-shadow: 0 0px 10px teal !important; transition: 0.3s;}
+.box-shadow-hover-olive:hover{box-shadow: 0 0px 10px #737301 !important; transition: 0.3s;}
+.box-shadow-hover-orange:hover{box-shadow: 0 0px 10px orange !important; transition: 0.3s;}
+.box-shadow-hover-darkgreen:hover{box-shadow: 0 0px 10px darkgreen !important; transition: 0.3s;}
+.box-shadow-hover-honey:hover{box-shadow: 0 0px 10px #cb9e54 !important; transition: 0.3s;}
+.box-shadow-hover-white:hover{box-shadow: 0 0px 10px white !important; transition: 0.3s;}
+.box-shadow-hover-darkgray:hover{box-shadow: 0 0px 10px darkgray !important; transition: 0.3s;}
+.box-shadow-hover-cyan:hover{box-shadow: 0 0px 10px cyan !important; transition: 0.3s;}
+.box-shadow-hover-dimgray:hover{box-shadow: 0 0px 10px dimgray !important; transition: 0.3s;}
+.box-shadow-hover-brown:hover{box-shadow: 0 0px 10px brown !important; transition: 0.3s;}
+.box-shadow-hover-yellow:hover{box-shadow: 0 0px 10px yellow !important; transition: 0.3s;}
+.box-shadow-hover-pink:hover{box-shadow: 0 0px 10px pink !important; transition: 0.3s;}
+.box-shadow-hover-purple:hover{box-shadow: 0 0px 10px purple !important; transition: 0.3s;}
+.box-shadow-hover-indigo:hover{box-shadow: 0 0px 10px indigo !important; transition: 0.3s;}
+.box-shadow-hover-red:hover{box-shadow: 0 0px 10px red !important; transition: 0.3s;}
+
+/* box shadows active */
+
+.box-shadow:active{box-shadow: 0 0px 7px black !important; }
+.box-shadow-active-tomato:active{box-shadow: 0 0px 10px tomato !important;}
+.box-shadow-active-sky:active{box-shadow: 0 0px 10px #00bfff !important;}
+.box-shadow-active-space:active{box-shadow: 0 0px 10px #000080 !important;}
+.box-shadow-active-royal:active{box-shadow: 0 0px 10px #3c61cd !important;}
+.box-shadow-active-green:active{box-shadow: 0 0px 10px green !important;}
+.box-shadow-active-teal:active{box-shadow: 0 0px 10px teal !important;}
+.box-shadow-active-olive:active{box-shadow: 0 0px 10px #737301 !important;}
+.box-shadow-active-orange:active{box-shadow: 0 0px 10px orange !important;}
+.box-shadow-active-darkgreen:active{box-shadow: 0 0px 10px darkgreen !important;}
+.box-shadow-active-honey:active{box-shadow: 0 0px 10px #cb9e54 !important;}
+.box-shadow-active-white:active{box-shadow: 0 0px 10px white !important;}
+.box-shadow-active-darkgray:active{box-shadow: 0 0px 10px darkgray !important;}
+.box-shadow-active-cyan:active{box-shadow: 0 0px 10px cyan !important;}
+.box-shadow-active-dimgray:active{box-shadow: 0 0px 10px dimgray !important;}
+.box-shadow-active-brown:active{box-shadow: 0 0px 10px brown !important;}
+.box-shadow-active-yellow:active{box-shadow: 0 0px 10px yellow !important;}
+.box-shadow-active-pink:active{box-shadow: 0 0px 10px pink !important;}
+.box-shadow-active-purple:active{box-shadow: 0 0px 10px purple !important;}
+.box-shadow-active-indigo:active{box-shadow: 0 0px 10px indigo !important;}
+.box-shadow-active-red:active{box-shadow: 0 0px 10px red !important;}
+
