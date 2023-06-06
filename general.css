@@ -127,9 +127,9 @@
 
 /* Containers */
 
-.container{padding: 16px; margin: 16px; min-height: 100px;}
-.container-stretch{padding:16px;margin-top: 16px;margin-bottom: 16px;min-height: 100px;}
-.container-touch{padding:16px;min-height: 100px;}
+.container{padding: 16px; margin: 16px;}
+.container-stretch{padding:16px;margin-top: 16px;margin-bottom: 16px;}
+.container-touch{padding:16px;}
 
 /* Fonts */
 

@@ -6,6 +6,8 @@
     display: inline-block;
     font-size: 16px;
     border-radius: 5px;
+    border: none;
+    color: white;
 }
 
 .btn-tomato{
@@ -129,24 +131,6 @@
 .btn-orange:focus{
     outline-color:  #ff8500; outline-width: 5px;outline-style: solid;transition: 0.2s;
 }
-.btn-black{
-    background-color: black;
-    border: none;
-    color: snow;
-    cursor: pointer;
-}
-.btn-black:hover{
-    background-color: #000050;
-}
-.btn-white{
-    background-color: white;
-    border: none;
-    color: black;
-    cursor: pointer;
-}
-.btn-white:hover{
-    background-color: #ffffee;
-}
 .btn-dimgray{
     background-color: dimgray;
     border: none;
@@ -157,7 +141,7 @@
     background-color: #696949;
 }
 .btn-dimgray:focus{
-    outline-color:  #698999; outline-width: 5px;outline-style: solid;transition: 0.2s;
+    outline-color: darkgray; outline-width: 5px;outline-style: solid;transition: 0.2s;
 }
 .btn-darkgray{
     background-color: darkgray;
@@ -169,7 +153,7 @@
     background-color: #a9a9ca;
 }
 .btn-darkgray:focus{
-    outline-color:  #79a9ca; outline-width: 5px;outline-style: solid;transition: 0.2s;
+    outline-color: dimgray; outline-width: 5px;outline-style: solid;transition: 0.2s;
 }
 .btn-cyan{
     background-color: cyan;
@@ -254,4 +238,294 @@
 }
 .btn-red:focus{
     outline-color:  tomato; outline-width: 5px;outline-style: solid;transition: 0.2s;
+}
+
+.disabled{
+    opacity: 0.4; cursor: not-allowed;
+}
+
+.btn-tomato-outline{
+    border: tomato;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-tomato-outline:hover{
+    background-color: tomato;
+    color: white;
+    transition: 0.3s;
+}
+.btn-tomato-outline:focus{
+    outline-color: red; outline-width: 2px;outline-style: solid;transition: 0.2s; border:red; border-style: solid;
+}
+.btn-sky-outline{
+    border: #00bfff;
+    border-style: solid;
+    color: black;
+    cursor:pointer;
+    margin: 5px;
+}
+.btn-sky-outline:hover{
+    background-color: #00bfff;
+    color: white;
+    transition: 0.3s;
+}
+.btn-sky-outline:focus{
+    outline-color: #0090ff; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#0090ff; border-style: solid;
+}
+.btn-space-outline{
+    border: #000080;
+    border-style: solid;
+    color: black;
+    cursor:pointer;
+    margin: 5px;
+}
+.btn-space-outline:hover{
+    background-color: #000080;
+    color: white;
+    transition: 0.3s;
+}
+.btn-space-outline:focus{
+    outline-color: #005080; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#005080; border-style: solid;
+}
+.btn-royal-outline{
+    border: #3c61cd;
+    border-style: solid;
+    color: black;
+    cursor:pointer;
+    margin: 5px;
+}
+.btn-royal-outline:hover{
+    background-color: #3c61cd;
+    color: white;
+    transition: 0.3s;
+}
+.btn-royal-outline:focus{
+    outline-color: #3c91cd; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#3c91cd; border-style: solid;
+}
+.btn-green-outline{
+    border: green;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-green-outline:hover{
+    background-color: green;
+    color: white;
+    transition: 0.3s;
+}
+.btn-green-outline:focus{
+    outline-color: #008060; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#008060; border-style: solid;
+}
+.btn-darkgreen-outline{
+    border: darkgreen;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-darkgreen-outline:hover{
+    background-color: darkgreen;
+    color: white;
+    transition: 0.3s;
+}
+.btn-darkgreen-outline:focus{
+    outline-color: #009000; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#009000; border-style: solid;
+}
+.btn-teal-outline{
+    border: teal;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-teal-outline:hover{
+    background-color: teal;
+    color: white;
+    transition: 0.3s;
+}
+.btn-teal-outline:focus{
+    outline-color: #00a080; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#00a080; border-style: solid;
+}
+.btn-olive-outline{
+    border: #737301;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-olive-outline:hover{
+    background-color: #737301;
+    color: white;
+    transition: 0.3s;
+}
+.btn-olive-outline:focus{
+    outline-color: #739001; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#739001; border-style: solid;
+}
+.btn-honey-outline{
+    border: #cb9e54;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-honey-outline:hover{
+    background-color: #cb9e54;
+    color: white;
+    transition: 0.3s;
+}
+.btn-honey-outline:focus{
+    outline-color: #cb7e54; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#cb7e54; border-style: solid;
+}
+.btn-orange-outline{
+    border: orange;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-orange-outline:hover{
+    background-color: orange;
+    color: white;
+    transition: 0.3s;
+}
+.btn-orange-outline:focus{
+    outline-color: #ff8500; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#ff8500; border-style: solid;
+}
+.btn-dimgray-outline{
+    border: dimgray;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-dimgray-outline:hover{
+    background-color: dimgray;
+    color: white;
+    transition: 0.3s;
+}
+.btn-dimgray-outline:focus{
+    outline-color: #698999; outline-width: 2px;outline-style: solid;transition: 0.2s; border:#698999; border-style: solid;
+}
+.btn-darkgray-outline{
+    border: darkgray;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-darkgray-outline:hover{
+    background-color: darkgray;
+    color: white;
+    transition: 0.3s;
+}
+.btn-darkgray-outline:focus{
+    outline-color:  dimgray; outline-width: 2px;outline-style: solid;transition: 0.2s; border: dimgray; border-style: solid;
+}
+.btn-cyan-outline{
+    border: cyan;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-cyan-outline:hover{
+    background-color: cyan;
+    color: dimgray;
+    transition: 0.3s;
+}
+.btn-cyan-outline:focus{
+    outline-color:  #00ccff; outline-width: 2px;outline-style: solid; transition:0.2s; border: #00ccff; border-style: solid;
+}
+.btn-brown-outline{
+    border: brown;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-brown-outline:hover{
+    background-color: brown;
+    color: white;
+    transition: 0.3s;
+}
+.btn-brown-outline:focus{
+    outline-color:  #c52a2a; outline-width: 2px;outline-style: solid;transition: 0.2s; border: #c52a2a; border-style: solid;
+}
+.btn-yellow-outline{
+    border: yellow;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-yellow-outline:hover{
+    background-color: yellow;
+    color: dimgray;
+    transition: 0.3s;
+}
+.btn-yellow-outline:focus{
+    outline-color:  #ffdf00; outline-width: 2px;outline-style: solid;transition: 0.2s; border: #ffdf00; border-style: solid;
+}
+.btn-pink-outline{
+    border: pink;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-pink-outline:hover{
+    background-color: pink;
+    color: dimgray;
+    transition: 0.3s;
+}
+.btn-pink-outline:focus{
+    outline-color:  #ffc0ff; outline-width: 2px;outline-style: solid;transition: 0.2s; border: #ffc0ff; border-style: solid;
+}
+.btn-purple-outline{
+    border: purple;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-purple-outline:hover{
+    background-color: purple;
+    color: white;
+    transition: 0.3s;
+}
+.btn-purple-outline:focus{
+    outline-color:  #800040; outline-width: 2px;outline-style: solid;transition: 0.2s; border: #800040; border-style: solid;
+}
+.btn-indigo-outline{
+    border: indigo;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-indigo-outline:hover{
+    background-color: indigo;
+    color: white;
+    transition: 0.3s;
+}
+.btn-indigo-outline:focus{
+    outline-color:  #4b7082; outline-width: 2px;outline-style: solid;transition: 0.2s; border: #4b7082; border-style: solid;
+}
+.btn-red-outline{
+    border: red;
+    border-style: solid;
+    color: black;
+    cursor: pointer;
+    margin: 5px;
+}
+.btn-red-outline:hover{
+    background-color: red;
+    color: white;
+    transition: 0.3s;
+}
+.btn-red-outline:focus{
+    outline-color:  tomato; outline-width: 2px;outline-style: solid;transition: 0.2s; border: tomato; border-style: solid;
 }
